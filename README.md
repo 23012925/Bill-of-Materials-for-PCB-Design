@@ -58,11 +58,13 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
+![WhatsApp Image 2025-02-28 at 8 14 03 PM (1)](https://github.com/user-attachments/assets/3d415637-1c25-4ed4-a152-6814749436fe)
 
 
 
 
 # Output
+![image](https://github.com/user-attachments/assets/376d2a0a-f819-41bf-9fd1-979dea8f4954)
 
 
 
