@@ -1,4 +1,9 @@
 # Bill-of-Materials-for-PCB-Design
+
+## Name: JANARTHANAN K
+## Reg.No: 212223040072
+## Date: 14-03-2025
+
 # Aim
 
 To prepare the Bill of Material for wireless power transfer-receiver
